@@ -1,0 +1,45 @@
+.navbar-inverse{
+    background-color:#050404;
+    position: fixed;
+    height: 5%;
+}
+
+.img-responsive{
+    height: 100%;;
+    position: absolute;
+}
+
+#footer{
+    background-color:#050404;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+  
+}
+.container-fluid{
+    padding: 60px 15px 0;
+    
+}
+.titulo-box{
+    font-size: 150%;
+}
+.panel{
+   margin-top: 1%;
+   margin-bottom: 2%;
+  
+}
+.panel-heading{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+
+}
+.row{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.small-box-footer{
+    position: right;
+}
