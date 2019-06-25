@@ -43,3 +43,6 @@
 .small-box-footer{
     position: right;
 }
+a, a:focus, a:hover{
+    color: #fcfeff;
+}
